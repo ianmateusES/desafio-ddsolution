@@ -1,4 +1,4 @@
-# Desafio DDSOLUTION - Backend / DevOps
+# Desafio DDSOLUTIONS - Backend / DevOps
 ## Descrição
 Esse desafio tem por objetivo definir o nível de conhecimento sobre o desenvolvimento backend e DevOps.
 Tecnologias envolvidas:
